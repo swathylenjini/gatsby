@@ -1,4 +1,3 @@
-import * as d3 from "d3";
 import {actionTypes} from './pieActions'
 import {generateRandomValues} from '../../../src/utils/randomDataGenerator'
 
